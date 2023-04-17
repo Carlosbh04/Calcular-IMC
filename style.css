@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+
+}
+
+h1{
+    color: rgb(255, 77, 0);
+    background-color:#EEEEEE;
+ text-align: center;
+ margin-top: 200px;
+ margin-left: 480px;
+border: 1px solid red;
+height: auto;
+width: 500px;
+
+
+
+
+}
+table, th, td{
+
+    color: red;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 50%;
+    height: auto;
+}
+
+button{
+     color: brown;
+     margin-left: 530px;
+     margin-top: 20px;
+     width: 400px;
+     
+     
+     
+}
+th{
+    background-color:#F94A29;
+    color: black;
+}
+td{
+    background-color: hsl(20, 69%, 92%);
+}
